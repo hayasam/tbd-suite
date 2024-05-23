@@ -3,3 +3,4 @@ sphinx_rtd_theme
 sphinx-autodoc-typehints
 recommonmark
 pypandoc
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
