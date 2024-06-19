@@ -2,3 +2,4 @@ mxnet-cu101
 numpy
 numba
 opencv-python==4.0.0.21
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
