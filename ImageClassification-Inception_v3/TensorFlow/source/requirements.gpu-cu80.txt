@@ -1,3 +1,4 @@
 tensorflow-gpu==2.4.0
 six
 numba
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
