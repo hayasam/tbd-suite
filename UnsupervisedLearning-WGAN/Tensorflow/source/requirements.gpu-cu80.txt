@@ -1,3 +1,4 @@
 numba
 tensorflow-gpu==2.4.0
 scikit-learn
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
