@@ -4,3 +4,4 @@ numpy>=1.12
 numba
 tensorboard==1.0.0a6
 tensorflow.tensorboard
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
