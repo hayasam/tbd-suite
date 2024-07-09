@@ -3,3 +3,4 @@ sphinx_rtd_theme
 sphinx-autodoc-typehints
 recommonmark
 pypandoc
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
