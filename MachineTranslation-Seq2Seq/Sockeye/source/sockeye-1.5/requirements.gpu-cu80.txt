@@ -4,3 +4,4 @@ numpy>=1.12
 numba
 tensorboard==1.0.0a6
 tensorflow.tensorboard
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
